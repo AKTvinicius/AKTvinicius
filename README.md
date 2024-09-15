@@ -1,4 +1,4 @@
-![](https://cdn.discordapp.com/attachments/718488181041004554/1284692614557335654/0914_3.gif?ex=66e78ebb&is=66e63d3b&hm=e8027999ee508b856da24282cc74c7c4b24d41e35ca9fd24549b8ac683c71797&)
+![](https://cdn.discordapp.com/attachments/718488181041004554/1284692860473442394/0914_3_1.gif?ex=66e78ef6&is=66e63d76&hm=a8688615f8820720fafd7abc1f908072339f65da7a1a84a0aa42e77e251c3f63&)
 
 # 💫 About Me:
 🔭I'm currently working on my game matchmaking app, allowing players from your region to participate.
