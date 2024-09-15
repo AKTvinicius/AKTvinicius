@@ -1,4 +1,5 @@
-![](https://i.imgur.com/YPQc9ad.gif](https://i.pinimg.com/originals/b2/2a/a2/b22aa22b2f3f55b6468361158d52e2e7.gif)
+![](https://i.pinimg.com/originals/b2/2a/a2/b22aa22b2f3f55b6468361158d52e2e7.gif)
+
 # 💫 About Me:
 🔭I'm currently working on my game matchmaking app, allowing players from your region to participate.
 
