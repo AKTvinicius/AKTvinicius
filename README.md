@@ -1,4 +1,4 @@
-![](https://pin.it/14GZiq1GZ)
+![](https://i.gifer.com/Mdj4.gif)
 🔭I'm currently working on my game matchmaking app, allowing players from your region to participate.
 
 
