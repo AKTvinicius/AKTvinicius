@@ -1,4 +1,4 @@
-![](https://i.gifer.com/Mdj4.gif)
+![](https://cdn.discordapp.com/attachments/718488181041004554/1284692614557335654/0914_3.gif?ex=66e78ebb&is=66e63d3b&hm=e8027999ee508b856da24282cc74c7c4b24d41e35ca9fd24549b8ac683c71797&)
 
 # 💫 About Me:
 🔭I'm currently working on my game matchmaking app, allowing players from your region to participate.
